@@ -7,6 +7,7 @@ const Home = () => {
   return (
     <View style={styles.container}>
       <Nav/>
+     
       <StatusBar style="auto" />
     </View>
   )
